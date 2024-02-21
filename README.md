@@ -56,13 +56,10 @@ I'm Currently Working on Big Data Architecture ...
 
 ⚡️ Learn and Earn...
 
-
-## Authors
-
-- [@codewithDS]
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codewthds&show_icons=true&locale=en" alt="codewthds" /></p>
 
 
-## Support
+
 
 For support, email codewithds@gmail.com or join our you tube channel.
 
